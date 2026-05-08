@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███╗   ██╗██╗██████╗ ███╗   ███╗ █████╗ ██╗
-████╗  ██║██║██╔══██╗████╗ ████║██╔══██╗██║
-██╔██╗ ██║██║██████╔╝██╔████╔██║███████║██║
-██║╚██╗██║██║██╔══██╗██║╚██╔╝██║██╔══██║██║
-██║ ╚████║██║██║  ██║██║ ╚═╝ ██║██║  ██║███████╗
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=Nirmal%20Mewada&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20ML%20%7C%20Flask%20%7C%20Web%20Dev&descAlignY=60&descAlign=50)
 
 ### 👨‍💻 Nirmal Mewada — Building things that make a difference.
 
