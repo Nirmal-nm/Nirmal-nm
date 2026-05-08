@@ -103,9 +103,7 @@
 
 <div align="center">
 
-[![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmal-nm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Nirmal-nm)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-nm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Nirmal-nm)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirmal-nm&theme=tokyonight)](https://github.com/Nirmal-nm)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nirmal-nm&theme=tokyonight&hide_border=true)
 
