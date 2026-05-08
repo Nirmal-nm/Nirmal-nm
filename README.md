@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Nirmal Mewada — Building things that make a difference.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=B.Tech+CS+%7C+Sitare+University;Python+%7C+ML+%7C+Flask+%7C+Web+Dev;AI+%2F+ML+Enthusiast;100%25+Sitare+Foundation+Scholar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+%7C+ML+%7C+Flask+%7C+Web+Dev;AI+%2F+ML+Enthusiast;Software+Dev+Intern+%40+Indore;100%25+Sitare+Foundation+Scholar)](https://git.io/typing-svg))
 
 </div>
 
